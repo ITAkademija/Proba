@@ -1,0 +1,88 @@
+ /* * {margin: 0;
+    padding: 0;
+} */
+
+
+.pre-header {
+    background-color: rgb(61, 60, 60);
+    height: 60px;
+    color: #fff;
+}
+
+.linkovi-str {
+    list-style-type: none;
+    
+}
+
+.pre-header .linkovi-str li {
+    display: inline-block;
+    margin: 15px;
+    padding: 1px;
+}
+
+.pre-header .linkovi-str li a {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+
+.logo-header {
+    margin: 10px;
+}
+
+.pretraga {
+ overflow: hidden;
+ float: left;
+ display: block;
+ text-align: center;
+ padding: 18px;
+ margin: 25px;
+ height: 29px;
+ width: 930px;
+}
+
+button {
+    margin: 25px;
+    cursor: pointer;
+    transition-duration: 0.2s;
+    border: solid;
+    border-width: thin;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#kocka {
+    width: 130px;
+    height: 130px;
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.div1 {
+   height: 180px;
+   background-color: whitesmoke;
+}
+
+.div1 h1 {
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.meni-slike {
+   border: none;
+  height: 180px;
+}
+
+#zjack {
+    height: 180px;
+    margin-left: 40px;
+}
+
+#mjack {
+    height: 180px;
+    margin-left: 180px;
+}
+
